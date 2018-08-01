@@ -11,4 +11,3 @@ C. ```function myFunction() { }```
 D. ```define myFunction { return value; }```
 
 
-Answer is C.
